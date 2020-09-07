@@ -1,3 +1,5 @@
+package arrays_and_strings;
+
 import java.util.List;
 import java.util.stream.IntStream;
 
