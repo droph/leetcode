@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/leetcode-parent/amazon-preps/amazon-preps.iml" filepath="$PROJECT_DIR$/leetcode-parent/amazon-preps/amazon-preps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-parent/leetcode-parent.iml" filepath="$PROJECT_DIR$/leetcode-parent/leetcode-parent.iml" />
+    </modules>
+  </component>
+</project>
