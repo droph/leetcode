@@ -1,5 +1,7 @@
 package arrays_and_strings;
 
+import java.util.Queue;
+
 public class ContainerWithMostWater {
     public static int maxArea(int[] height) {
         var maxArea = 0;
